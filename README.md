@@ -27,8 +27,7 @@ It supports server-side rendering (SSR), dynamic theming, and persistent storage
 
 ```bash
 git clone git@github.com:syedomer17/Next.js-notes-app.git
-cd Next.js-notes-app.git
-cd my-notes
+cd Next.js-notes-app.git && cd my-notes
 ````
 
 ### 2️⃣ Install dependencies
